@@ -1,5 +1,3 @@
-# BicycLED
-
 ### August Weinbren
 ### MSc Connected Environments
 ### Bartlett Centre for Advanced Spatial Analysis
