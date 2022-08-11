@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# BicycLED
 
-You can use the [editor on GitHub](https://github.com/augustweinbren/BicycLED/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### August Weinbren
+### MSc Connected Environments
+### Bartlett Centre for Advanced Spatial Analysis
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Background
 
-### Markdown
+BicycLED animates cyclists which correspond to the number of bikes currently parked outside of this window on a low-resolution LED “screen”.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It consists of sewed mosquito netting holding
+20 rows of 58 addressable LEDs which are 
+controlled by an ESP-32 microcontroller.
 
-```markdown
-Syntax highlighted code block
+The mesh structure can be adapted to a curved surface with ease, while its light weight allows for easy and non-disruptive installation and disassembly.
 
-# Header 1
-## Header 2
-### Header 3
+Using a low-resolution format has a two-fold purpose: it draws the viewer in through requiring a great level of focus to discern the content of the animation, while allowing for less resources to be used (in terms of both electricity and computing power) than a higher resolution animation would require.
 
-- Bulleted
-- List
+In sewing a display for a digital artwork, this work explores the potential power of combining analogue crafts with digital technology and of the intrinsic reward of learning new skills in an unfamiliar domain.
 
-1. Numbered
-2. List
+I hope to encourage others to contribute ideas for how they would iterate on this piece to provide useful information for cyclists and an aesthetically rewarding viewing for other passersby.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/augustweinbren/BicycLED/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
