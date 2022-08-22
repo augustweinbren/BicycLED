@@ -6,8 +6,7 @@
 
 BicycLED animates cyclists which correspond to the number of bikes currently parked outside of a window on a low-resolution LED “screen”.
 
-It provides a prototype design for a potential future façade of Cyclehoop's Bikehangar:
-[!https://tilleygroup.co.nz/wp-content/uploads/2019/02/Bikehangar-00-SmGs.jpg]
+It provides a prototype design for a potential future façade of Cyclehoop's Bikehangar.
 
 It consists of sewed mosquito netting holding
 20 rows of 58 addressable LEDs which are 
